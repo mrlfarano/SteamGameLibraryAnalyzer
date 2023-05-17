@@ -18,7 +18,7 @@ Retrieve and analyze game library data from Steam using Python. This script allo
 1. Clone the repository: `git clone https://github.com/mrlfarano/steam-game-library-analyzer.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Update the `config.py` file with your Steam API key
-4. Run the script: `python steam.py`
+4. Run the script: `python steamgamelibanalyzer.py`
 
 ## License
 
